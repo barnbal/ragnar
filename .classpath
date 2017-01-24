@@ -27,7 +27,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/JavaPirateBayApi"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/transmission-rpc-java"/>
+	<classpathentry kind="lib" path="/home/balazs/git/Java-Pirate-Bay-Api/JavaPirateBayApi/target/JavaPirateBayApi-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/balazs/git/transmission-rpc-java/target/transmission-rpc-java-0.6.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

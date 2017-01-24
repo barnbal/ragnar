@@ -1,4 +1,6 @@
-/home/balazs/workspace2/twitter/src/main/java/com/bb/twitter/repository/UserRepository.java
-/home/balazs/workspace2/twitter/src/main/java/com/bb/twitter/controller/UserController.java
-/home/balazs/workspace2/twitter/src/main/java/com/bb/twitter/app/Application.java
-/home/balazs/workspace2/twitter/src/main/java/com/bb/twitter/entity/User.java
+/home/balazs/workspace2/ragnar/src/main/java/com/bb/ragnar/TorrentController.java
+/home/balazs/workspace2/ragnar/src/main/java/com/bb/ragnar/Application.java
+/home/balazs/workspace2/ragnar/src/main/java/com/bb/ragnar/SeriesRepository.java
+/home/balazs/workspace2/ragnar/src/main/java/com/bb/ragnar/TorrentDownloader.java
+/home/balazs/workspace2/ragnar/src/main/java/com/bb/ragnar/Series.java
+/home/balazs/workspace2/ragnar/src/main/java/com/bb/ragnar/SeriesController.java
